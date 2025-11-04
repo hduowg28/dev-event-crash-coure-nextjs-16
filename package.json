@@ -9,7 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "next": "16.0.2-canary.5",
+    "mongoose": "^8.19.2",
+    "next": "^16.0.2-canary.6",
     "ogl": "^1.0.11",
     "posthog-js": "^1.285.1",
     "posthog-node": "^5.11.0",
